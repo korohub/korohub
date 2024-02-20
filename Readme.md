@@ -19,3 +19,5 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-blue?style=flat&logo=javascript)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=Svelte)&nbsp;
+
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=korohub&show_icons=true&theme=merko&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
