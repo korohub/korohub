@@ -1,11 +1,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Fastapi](https://img.shields.io/badge/-Fastapi-05122A?style=flat&logo=fastapi)&nbsp;
-![Fastapi](https://img.shields.io/badge/-postgresql-05122A?style=flat&logo=postgresql)&nbsp;
-![Fastapi](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
-![Fastapi](https://img.shields.io/badge/-mongodb-05122A?style=flat&logo=mongodb)&nbsp;
-![Fastapi](https://img.shields.io/badge/-aws-05122A?style=flat&logo=aws)&nbsp;
+![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+![Fastapi](https://img.shields.io/badge/-postgresql-05122A?style=for-the-badge&logo=postgresql)&nbsp;
+![Fastapi](https://img.shields.io/badge/-redis-05122A?style=for-the-badge&logo=redis)&nbsp;
+![Fastapi](https://img.shields.io/badge/-mongodb-05122A?style=for-the-badge&logo=mongodb)&nbsp;
+![Fastapi](https://img.shields.io/badge/-aws-05122A?style=for-the-badge&logo=aws)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
