@@ -31,7 +31,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=korohub&theme=transparent" />
   </a>
   <a href="https://github.com/korohub">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korohub&langs_count=10&exclude_repo=&hide=c,makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korohub&langs_count=10&exclude_repo=&hide=php,c,makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
   </a>
   <br/>
   <a href="https://github.com/korohub">
