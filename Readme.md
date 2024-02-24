@@ -21,3 +21,22 @@
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=Svelte)&nbsp;
 
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=korohub&show_icons=true&theme=merko&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://github.com/korohub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korohub&theme=transparent" />
+  </a>
+  <a href="https://github.com/korohub">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=korohub&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/korohub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=korohub&theme=transparent" />
+  </a>
+  <a href="https://github.com/korohub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=korohub&langs_count=10&exclude_repo=&hide=c,makefile,html,css,sass,nix,nunjucks,tsql,dockerfile,shell&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+  <br/>
+  <a href="https://github.com/korohub">
+    <img src="https://komarev.com/ghpvc/?username=korohub&color=blue&style=flat" />
+  </a>
+</p>
