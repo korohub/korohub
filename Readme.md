@@ -2,7 +2,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Fastapi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
-![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)&nbsp;
+![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?style=for-the-badge&logo=FastHTML&logoColor=white)&nbsp;
+![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Fastapi](https://img.shields.io/badge/-postgresql-05122A?style=for-the-badge&logo=postgresql)&nbsp;
 ![Fastapi](https://img.shields.io/badge/-redis-05122A?style=for-the-badge&logo=redis)&nbsp;
 ![Fastapi](https://img.shields.io/badge/-mongodb-05122A?style=for-the-badge&logo=mongodb)&nbsp;
