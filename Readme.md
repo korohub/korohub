@@ -12,6 +12,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)&nbsp;
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?style=for-the-badge&logo=gitea&logoColor=fff)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)
