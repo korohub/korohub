@@ -22,8 +22,8 @@
 ![Express](https://img.shields.io/badge/-Express?style=for-the-badge&logo=javascript)&nbsp;
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=for-the-badge&logo=Svelte)&nbsp;
 
-<p align="center">
+
   ![Stats](https://github-readme-stats.vercel.app/api?username=korohub&theme=transparent)
   ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=korohub&theme=transparent)
 
-</p>
+
